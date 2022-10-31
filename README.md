@@ -1,2 +1,1 @@
-This is the root file for aresesylvester.com
-It is a portfolio website.
+View the live build [here](https://www.aresesylvester.com)!
